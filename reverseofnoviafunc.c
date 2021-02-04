@@ -1,7 +1,3 @@
-//Name: Iftakhar Kaunain Ashhar
-//Class: A1E
-//Faculty no.: 19MEB441
-//Enrolment no.: GJ3587
 #include <stdio.h>
 int reverse(); //reverse function declaration 
 int main () //main function
@@ -37,7 +33,6 @@ int main () //main function
         getchar ();
     }
     printf ("\n\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
-    printf ("_________(c) IftakharKaunainAshhar|19MEB441|GJ3587|A1E|ZHCET,AMU_________\n\n");
     //end program
     printf ("\n\n>>>>> Want to try again? (Y/N) ");
     scanf ("%c", &c); //scan user input for starting again
@@ -71,6 +66,6 @@ int reverse(int m, int n) //reverse function
     }
     getchar ();
     return (number[i]); //return the output
-} // (c) Iftakhar Kaunain Ashhar|19MEB441|A1E-41|GJ-3587|ZHCET, AMU
+}
 
 
